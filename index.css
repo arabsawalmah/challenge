@@ -1,0 +1,44 @@
+
+section{
+    background-color: #ffe6e6;
+}
+.discription{
+    display: flex;
+    color: grey;
+    width: 220px;
+    position: relative;
+    left:36%
+}
+button{
+    background-color: rgb(29, 131, 63);
+    height: 50px;
+    width: 180px;
+}
+h3{
+    color: grey;
+    font:status-bar;
+
+}
+.costafter{
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: rgb(29, 131, 63);
+    
+}
+.costbefore{
+    color: gray;
+    text-decoration: line-through;
+}
+.attribution { font-size: 11px; text-align: center; }
+.attribution a { color: hsl(228, 45%, 44%); }
+.photo{ 
+    display: flex;
+    justify-content: center;
+    left:9%;
+    position:absolute; 
+    margin: auto;
+    height: 318px;
+    padding: 10px;
+    }  
+    .paragraph{
+         text-align: center;
+    }
